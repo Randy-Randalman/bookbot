@@ -1,2 +1,2 @@
 # bookbot
-A bot for analyzing books
+BookBot is my first project!
